@@ -12,4 +12,29 @@ hero:
     - theme: alt
       text: View on GitHub
       link: https://github.com/vuejs/vitepress
+features:
+  - icon: 
+      src: https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg
+    title: Vuejs
+    details: Developed multiple application based on vue and its eco-system. 
+  - icon:
+      src: https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png
+    title: Javascript
+    details: Worked in multiple javascript libraries. Inspired by javascript eco-system
+  - icon:
+      src: https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg
+    title: Tailwind
+    details: Worked in multiple javascript libraries. Inspired by javascript eco-system
+  - icon:
+      src: https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg
+    title: Tailwind
+    details: Worked in multiple javascript libraries. Inspired by javascript eco-system
+  - icon:
+      src: https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg
+    title: HTML
+    details: Worked in multiple javascript libraries. Inspired by javascript eco-system
+  - icon:
+      src: https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg
+    title: HTML
+    details: Worked in multiple javascript libraries. Inspired by javascript eco-system
 ---
