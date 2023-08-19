@@ -5,6 +5,8 @@ hero:
   name: Manirathanam M
   text: Senior Frontend developer
   tagline: Simple, powerful, and performant. Meet the front end developer you've always wanted.
+  image:
+    src: ./img/self.png
   actions:
     - theme: brand
       text: View on LinkedIn
