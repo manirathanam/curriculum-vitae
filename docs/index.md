@@ -26,10 +26,6 @@ features:
     title: Tailwind
     details: Worked in multiple javascript libraries. Inspired by javascript eco-system
   - icon:
-      src: https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg
-    title: Tailwind
-    details: Worked in multiple javascript libraries. Inspired by javascript eco-system
-  - icon:
       src: https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg
     title: HTML
     details: Worked in multiple javascript libraries. Inspired by javascript eco-system
